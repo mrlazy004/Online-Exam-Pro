@@ -2,7 +2,7 @@
 
 A secure and user-friendly web-based examination platform built using **Spring Boot**, designed to simplify online assessments for both **students** and **administrators**.
 
-The project is live at: https://onlineexampro.onrender.com/
+The project is live at: https://online-exam-pro-1.onrender.com/
 
 ---
 
