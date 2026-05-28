@@ -140,9 +140,9 @@ React / Angular frontend
 
 👨‍💻 Author
 
-Lokpavan P
+Beerappa K B
 
-GitHub: https://github.com/pavan1832
+GitHub: https://github.com/mrlazy004
 
 📄 License
 
