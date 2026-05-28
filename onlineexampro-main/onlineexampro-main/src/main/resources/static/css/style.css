@@ -1,0 +1,43 @@
+body {
+    min-height: 100vh;
+  
+    background:
+      linear-gradient(
+        rgba(0, 0, 0, 0.35),
+        rgba(0, 0, 0, 0.35)
+      ),
+      url("/images/login-bg.png") no-repeat center center / cover;
+  
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  }
+  
+  
+  
+  .card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 14px;
+  box-shadow: 0 30px 70px rgba(0, 0, 0, 0.25);
+}
+
+  
+  .bg-shape {
+    position: fixed;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    filter: blur(120px);
+    z-index: -1;
+  }
+  
+  .bg-shape-1 {
+    background: #3b82f6;
+    top: -100px;
+    left: -100px;
+  }
+  
+  .bg-shape-2 {
+    background: #22c55e;
+    bottom: -100px;
+    right: -100px;
+  }
+  
